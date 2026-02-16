@@ -7,26 +7,41 @@ permalink: /
 
 ### Welcome!
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
+The world is full of small miracles. I try to meet these with rigor, intelligence and imagination to sense, to understand, and to shape. 
+Before the loud roar enters a narrow slit, we do not yet know it can be tamed and converted into vorticity, perhaps, with a melogy at the ear.
+I’m drawn to such problems where the underlying mechanisms are rich but not immediately visible where high-fidelity modeling, scalable computing and state-of-art analysis can reveal the principles.
 
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
+<video width="100%" autoplay muted loop playsinline>
+<source src="{{ site.baseurl }}images/CircularOrifice_1kHz.mp4" type="video/mp4">
+</video>
+An acoustically-driven micro-orifice plate <br/>
+Cost: 64 x A100 GPUS with 12 hours<br/>
 </center>
 </div>
 </div>
 <br/>
 
+<!-- 
+<div class="container">
+  <div class="row">
+    <center>
+      <video width="100%" autoplay muted loop playsinline>
+        <source src="{{ site.baseurl }}images/CircularOrifice_1kHz.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <br/>
+      An acoustically-driven micro-orifice plate <br/>
+      Cost: 64 x A100 GPUs with 12 hours<br/>
+    </center>
+  </div>
+</div>
+<br/> -->
+
 ### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.
+I am PhD candidate in Computational Science and Engineering at Georgia Institute of Technology with specialty in aerospace engineering.
+My research focuses on computational aeroacoustics. I also contribute to our group solver MFC over the years.
+I am also a 
