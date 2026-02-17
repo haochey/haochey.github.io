@@ -2,7 +2,7 @@
 title: "Home"
 layout: homelay
 sitemap: false
-permalink: https://haochey.github.io
+permalink: /
 ---
 
 ### Welcome!
