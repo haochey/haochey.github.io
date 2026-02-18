@@ -90,7 +90,7 @@ iframe {
 </style>
 
 <div class="research-item">
-  <div class="research-thumb">
+  <div class="research-thumb video">
     <video
       autoplay
       muted
