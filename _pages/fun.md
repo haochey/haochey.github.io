@@ -1,8 +1,8 @@
 ---
-title: "Blog"
+title: "Fun"
 layout: page
 sitemap: false
-permalink: /blogs/
+permalink: /fun/
 ---
 
 <ul>
