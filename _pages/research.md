@@ -75,19 +75,38 @@ iframe {
     max-width: 100%;
   }
 }
+
+.research-thumb video {
+  width: 100%;
+  border-radius: 10px;
+  display: block;
+  background: #000;
+}
+
+.research-thumb video[poster] {
+  object-fit: cover;
+}
+
 </style>
 
 <div class="research-item">
   <div class="research-thumb">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/research/example1.png"
-         alt="Example Research 1">
+    <video
+      autoplay
+      muted
+      loop
+      playsinline
+      poster="{{ site.url }}{{ site.baseurl }}/images/research/poster_1.png">
+      <source src="{{ site.url }}{{ site.baseurl }}/images/research/3Dearplug_1kHz_KE.mp4"
+              type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
   </div>
+
   <div class="research-content">
-    <h4>Leakage in Ill-fitting Earplugs</h4>
+    <h4>Example Research Project (Video)</h4>
     <p>
-      This project studies example phenomena using advanced theoretical
-      and computational techniques. The goal is to understand underlying
-      mechanisms and develop predictive models applicable to real-world systems.
+        High sound pressure levels (SPL) pose notable risks in loud environments, particularly due to noise-induced hearing loss. Ill-fitting earplugs often lead to sound leakage, a phenomenon this study seeks to investigate. To validate our methodology, we first obtained computational and experimental acoustic transmission data for stand-alone slit resonators and orifices, for which extensive published data are readily available for comparison. We then examined the frequency-dependent acoustic power absorption coefficient and transmission loss (TL) across various leakage geometries, modeled using different orifice diameters. Experimental approaches spanned a frequency range of 1–5 kHz under SPL conditions of 120–150 dB. Key findings reveal that unsealed silicone rubber earplugs demonstrate an average TL reduction of approximately 18 dB at an overall incident SPL (OISPL) of 120 dB. Direct numerical simulations further highlight SPL-dependent acoustic dissipation mechanisms, showing the conversion of acoustic energy into vorticity in ill-fitting earplug models at an OISPL of 150 dB. These results highlight the role of earplug design for high-sound-pressure-level environments.
     </p>
   </div>
 </div>
