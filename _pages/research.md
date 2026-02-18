@@ -160,7 +160,7 @@ iframe {
   <div class="research-content">
     <h4>Biodegradable seed carrier</h4>
     <p>
-    a bio-inspired, sustainable seed carrier designed for electronic-free seed dispersal, triggered only by a user-defined wind direction and speed, offering a novel approach to autonomous and eco-friendly agriculture. 
+    A bio-inspired, sustainable seed carrier designed for electronic-free seed dispersal, triggered only by a user-defined wind direction and speed, offers a novel approach to autonomous and eco-friendly agriculture. 
     </p>
     <details class="abstract-details">
       <summary>Read full abstract</summary>
