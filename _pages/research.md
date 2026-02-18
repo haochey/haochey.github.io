@@ -77,15 +77,13 @@ iframe {
 }
 </style>
 
-## Research
-
 <div class="research-item">
   <div class="research-thumb">
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/example1.png"
          alt="Example Research 1">
   </div>
   <div class="research-content">
-    <h4>Example Research Project One</h4>
+    <h4>Leakage in Ill-fitting Earplugs</h4>
     <p>
       This project studies example phenomena using advanced theoretical
       and computational techniques. The goal is to understand underlying
@@ -100,7 +98,7 @@ iframe {
          alt="Example Research 2">
   </div>
   <div class="research-content">
-    <h4>Example Research Project Two</h4>
+    Example Research Project Two
     <p>
       We focus on data-driven approaches and interdisciplinary methods to
       explore complex interactions across multiple scales, with applications
@@ -119,6 +117,21 @@ iframe {
     <p>
       This research develops new frameworks for analysis and simulation,
       enabling improved accuracy and efficiency in large-scale systems.
+    </p>
+  </div>
+</div>
+
+<div class="research-item">
+  <div class="research-thumb">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/research/example1.png"
+         alt="Example Research 1">
+  </div>
+  <div class="research-content">
+    <h4>Example Research Project One</h4>
+    <p>
+      This project studies example phenomena using advanced theoretical
+      and computational techniques. The goal is to understand underlying
+      mechanisms and develop predictive models applicable to real-world systems.
     </p>
   </div>
 </div>
